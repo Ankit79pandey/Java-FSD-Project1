@@ -32,6 +32,8 @@ public static void main(String args[]) {
 		result=num1%num2;
 		System.out.println(result);
 	}
+	else
+		System.out.println("You are in a wrong direction");
 	
 }
 }
