@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class ArithmeticCalculator {
 public static void main(String args[]) {
-	int num1,num2;
+	float num1,num2;
 	char operator;
 	float result;
 	Scanner sc=new Scanner(System.in);
